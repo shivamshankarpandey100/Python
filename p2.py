@@ -7,4 +7,4 @@ email = "user@example.com"
 if re.match(pattern, email):
     print("Valid email address")
 else:
-    print("Invalid email address.")
+    print("Invalid email address")
